@@ -1,4 +1,4 @@
-# Srabon Rivu Portfolio
+# Srabon Singha Rivu Portfolio
 
 A responsive static portfolio ready for free hosting on GitHub Pages, Cloudflare Pages or Netlify.
 
